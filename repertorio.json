@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "9602",
+    "titulo": "lala",
+    "artista": "dan",
+    "tono": "semi color"
+  },
+  {
+    "id": 7172,
+    "titulo": "aa",
+    "artista": "aa",
+    "tono": "aa"
+  },
+  {
+    "id": 677,
+    "titulo": "assad",
+    "artista": "asda",
+    "tono": "asas"
+  }
+]
